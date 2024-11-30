@@ -1,4 +1,4 @@
-# CRUD de Salas com Filtro
+# CRUD_Painel de Consultas
 
 ## Tela de Cadastro
 ![image](https://github.com/user-attachments/assets/5f37cae4-6ddf-4598-812b-9c447e3d7041)
