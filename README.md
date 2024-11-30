@@ -2,9 +2,13 @@
 
 ## Tela de Cadastro
 ![image](https://github.com/user-attachments/assets/5f37cae4-6ddf-4598-812b-9c447e3d7041)
+![image](https://github.com/user-attachments/assets/4bb313cb-7b2c-4340-865b-bcb3a12bab1e)
+
 
 ## Tela de Edição e Atualização
 ![image](https://github.com/user-attachments/assets/c61e3a39-6c79-4745-90d7-17c4577ff6f2)
+![image](https://github.com/user-attachments/assets/925e503a-a348-4aeb-aba1-9440f6aafe74)
+
 
 
 Este projeto implementa um sistema simples de **CRUD** (Criar, Ler, Atualizar e Excluir) para o gerenciamento de salas. Ele permite cadastrar salas, editar informações, excluir salas e aplicar filtros para busca. A aplicação foi desenvolvida em **PHP**, com uma interface simples usando **HTML**, **CSS** e **Bootstrap**.
