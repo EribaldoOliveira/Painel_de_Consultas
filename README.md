@@ -1,5 +1,12 @@
 # CRUD de Salas com Filtro
 
+## Tela de Cadastro
+![image](https://github.com/user-attachments/assets/5f37cae4-6ddf-4598-812b-9c447e3d7041)
+
+## Tela de Edição e Atualização
+![image](https://github.com/user-attachments/assets/c61e3a39-6c79-4745-90d7-17c4577ff6f2)
+
+
 Este projeto implementa um sistema simples de **CRUD** (Criar, Ler, Atualizar e Excluir) para o gerenciamento de salas. Ele permite cadastrar salas, editar informações, excluir salas e aplicar filtros para busca. A aplicação foi desenvolvida em **PHP**, com uma interface simples usando **HTML**, **CSS** e **Bootstrap**.
 
 ## Funcionalidades
@@ -24,6 +31,7 @@ Este projeto implementa um sistema simples de **CRUD** (Criar, Ler, Atualizar e 
 
 1. **Servidor Local**: Certifique-se de ter um servidor local, como o [XAMPP](https://www.apachefriends.org/pt_br/index.html), [MAMP](https://www.mamp.info/en/), ou [WAMP](https://www.wampserver.com/en/), instalado.
 2. **Banco de Dados MySQL**: O banco de dados deve estar configurado com o nome `crud_salas` (ou outro de sua escolha) e uma tabela chamada `salas` com a estrutura:
+![image](https://github.com/user-attachments/assets/67997959-08f3-4ad8-b5ea-a6bf1da01904)
 
 ```sql
 CREATE TABLE salas (
@@ -32,3 +40,5 @@ CREATE TABLE salas (
     profissional VARCHAR(255) NOT NULL,
     apelido VARCHAR(255) NOT NULL
 );
+
+
