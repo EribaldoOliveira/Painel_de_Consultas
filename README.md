@@ -31,7 +31,6 @@ Este projeto implementa um sistema simples de **CRUD** (Criar, Ler, Atualizar e 
 
 1. **Servidor Local**: Certifique-se de ter um servidor local, como o [XAMPP](https://www.apachefriends.org/pt_br/index.html), [MAMP](https://www.mamp.info/en/), ou [WAMP](https://www.wampserver.com/en/), instalado.
 2. **Banco de Dados MySQL**: O banco de dados deve estar configurado com o nome `crud_salas` (ou outro de sua escolha) e uma tabela chamada `salas` com a estrutura:
-![image](https://github.com/user-attachments/assets/67997959-08f3-4ad8-b5ea-a6bf1da01904)
 
 ```sql
 CREATE TABLE salas (
